@@ -184,7 +184,7 @@ summary: >
 
 ### LeetCode
 
-<img src="https://leetcard.jacoblin.cool/Shruti_rai?theme=dark&font=Fira%20Code&extension=activity" width="60%"/>
+[<img src="https://leetcard.jacoblin.cool/Shruti_rai?theme=dark&font=Fira%20Code" width="60%"/>](https://leetcode.com/u/Shruti_rai/)
 
 ![Problems Solved](https://img.shields.io/badge/Problems_Solved-29-8a2be2?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Easy](https://img.shields.io/badge/Easy-9-00d4ff?style=for-the-badge)
@@ -293,11 +293,11 @@ summary: >
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-rai-3b5055304/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutirai29)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8a2be2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Shruti_rai)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8a2be2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shrutirai29.github.io/myportfolio/)
+[![Email](https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shruti.rai2901@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shruti_rai/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-D32F2F?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shruti.r8524)
 
 </div>
