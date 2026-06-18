@@ -215,8 +215,7 @@ summary: >
 <img src="https://github-readme-stats.vercel.app/api?username=shrutirai29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=8a2be2&text_color=c9d1d9&count_private=true" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutirai29&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=00d4ff&currStreakLabel=00d4ff" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutirai29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shrutirai29&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutirai29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="60%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutirai29&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=8a2be2&point=ffffff" width="97%"/>
 
