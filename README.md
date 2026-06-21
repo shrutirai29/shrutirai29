@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Hi%20There,%20I'm%20Shruti%20Rai&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20AI%20%7C%20Cybersecurity%20%7C%20Building%20things%20that%20matter&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:5a189a,100:00d4ff&height=230&section=header&text=Hi%20There,%20I'm%20Shruti%20Rai&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20AI%20%7C%20Cybersecurity%20%7C%20Building%20things%20that%20matter&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=B388FF&center=true&vCenter=true&width=700&lines=B.Tech+CS+Student+%40+RRU+%E2%80%A2+2024-2028;Backend+Engineer+%7C+AI+Enthusiast;Cybersecurity+%26+Ethical+Hacking+Learner;Building+MEDTrust+%2C+Khety+%26+more...;Always+shipping%2C+always+learning+%E2%9C%A8" alt="Typing SVG" />
@@ -8,15 +8,15 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shrutirai29&label=Profile%20Views&color=8a2be2&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=shrutirai29&label=Profile%20Views&color=9d4edd&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/shrutirai29?label=Followers&style=for-the-badge&color=00d4ff)
-![GitHub last commit](https://img.shields.io/github/last-commit/shrutirai29/shrutirai29?style=for-the-badge&color=8a2be2)
+![GitHub last commit](https://img.shields.io/github/last-commit/shrutirai29/shrutirai29?style=for-the-badge&color=9d4edd)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=8a2be2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=9d4edd" width="100%"/>
 
 ## 🧬 About Me
 
@@ -95,20 +95,20 @@ summary: >
 **Cybersecurity**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-8a2be2?style=for-the-badge&logo=cisco&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-9d4edd?style=for-the-badge&logo=cisco&logoColor=white)
 ![Secure Coding](https://img.shields.io/badge/Secure_Coding-00d4ff?style=for-the-badge&logo=shieldsdotio&logoColor=white)
 
 **Core Concepts**
 
-![REST APIs](https://img.shields.io/badge/REST_APIs-8a2be2?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-9d4edd?style=for-the-badge)
 ![Authentication](https://img.shields.io/badge/Authentication-00d4ff?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-8a2be2?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-9d4edd?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-00d4ff?style=for-the-badge)
-![API Integration](https://img.shields.io/badge/API_Integration-8a2be2?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API_Integration-9d4edd?style=for-the-badge)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=8a2be2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=9d4edd" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -127,7 +127,7 @@ summary: >
 - 💬 AI assistant
 - 🔐 Secure workflows
 
-![Status](https://img.shields.io/badge/Domain-HealthTech-8a2be2?style=flat-square)
+![Status](https://img.shields.io/badge/Domain-HealthTech-9d4edd?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-Powered-00d4ff?style=flat-square)
 
 </td>
@@ -142,7 +142,7 @@ summary: >
 - 🌱 Crop disease detection
 - 🛒 Marketplace APIs
 
-![Status](https://img.shields.io/badge/Domain-AgriTech-8a2be2?style=flat-square)
+![Status](https://img.shields.io/badge/Domain-AgriTech-9d4edd?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-MERN-00d4ff?style=flat-square)
 
 </td>
@@ -157,7 +157,7 @@ summary: >
 - 🔍 Keyword matching
 - ⚡ Automated feedback
 
-![Status](https://img.shields.io/badge/Domain-AI%2FNLP-8a2be2?style=flat-square)
+![Status](https://img.shields.io/badge/Domain-AI%2FNLP-9d4edd?style=flat-square)
 
 </td>
 <td width="50%">
@@ -186,40 +186,46 @@ summary: >
 
 [<img src="https://leetcard.jacoblin.cool/Shruti_rai?theme=dark&font=Fira%20Code" width="60%"/>](https://leetcode.com/u/Shruti_rai/)
 
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-29-8a2be2?style=for-the-badge&logo=leetcode&logoColor=white)
-![Easy](https://img.shields.io/badge/Easy-9-00d4ff?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-13-8a2be2?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-7-ff4d4d?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Current_Streak-11_days-00d4ff?style=for-the-badge&logo=fire&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-33-9d4edd?style=for-the-badge&logo=leetcode&logoColor=white)
+![Easy](https://img.shields.io/badge/Easy-10-00d4ff?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-15-9d4edd?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-8-ff2e63?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Max_Streak-17_days-00d4ff?style=for-the-badge&logo=fire&logoColor=white)
 
 <br/>
 
 ### TryHackMe
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-shruti.r8524-red?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Rank](https://img.shields.io/badge/Rank-Top_25%25-8a2be2?style=for-the-badge)
-![Rooms](https://img.shields.io/badge/Rooms_Completed-12-00d4ff?style=for-the-badge)
-![Badges](https://img.shields.io/badge/Badges_Earned-2-8a2be2?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Current_Streak-8_days-00d4ff?style=for-the-badge&logo=fire&logoColor=white)
+![Rank](https://img.shields.io/badge/Rank-Top_20%25-9d4edd?style=for-the-badge)
+![Rooms](https://img.shields.io/badge/Rooms_Completed-16-00d4ff?style=for-the-badge)
+![Badges](https://img.shields.io/badge/Badges_Earned-3-9d4edd?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current_Streak-12_days-00d4ff?style=for-the-badge&logo=fire&logoColor=white)
 
 [![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/shruti.r8524.png)](https://tryhackme.com/p/shruti.r8524)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=8a2be2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=9d4edd" width="100%"/>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shrutirai29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=8a2be2&text_color=c9d1d9&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutirai29&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=00d4ff&currStreakLabel=00d4ff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shrutirai29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=9d4edd&text_color=c9d1d9&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutirai29&theme=tokyonight&hide_border=true&background=0d1117&ring=9d4edd&fire=00d4ff&currStreakLabel=00d4ff" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutirai29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="60%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutirai29&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=8a2be2&point=ffffff" width="97%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutirai29&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=9d4edd&point=ffffff" width="97%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=shrutirai29&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1" width="97%"/>
+<br/><br/>
+
+![CGPA](https://img.shields.io/badge/CGPA-8.01-9d4edd?style=for-the-badge&logo=googlescholar&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode_Solved-33-00d4ff?style=for-the-badge&logo=leetcode&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe_Rank-Top_20%25-9d4edd?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Rooms](https://img.shields.io/badge/Rooms_Completed-16-00d4ff?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects_Built-4-9d4edd?style=for-the-badge)
 
 </div>
 
@@ -241,9 +247,9 @@ summary: >
 
 **🏆 Achievements**
 - 🎓 Maintaining CGPA of 8.01 at RRU
-- 🥇 TryHackMe — Top 25% global rank
-- 🔥 29 LeetCode problems solved & climbing
-- 🛡️ 12 cybersecurity rooms completed
+- 🥇 TryHackMe — Top 20% global rank
+- 🔥 33 LeetCode problems solved & climbing
+- 🛡️ 16 cybersecurity rooms completed
 
 **🛡️ Cybersecurity Journey**
 - Exploring Linux & networking fundamentals
@@ -273,7 +279,7 @@ summary: >
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=8a2be2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=2&color=9d4edd" width="100%"/>
 
 ## ☕ A Little Fun
 
@@ -282,7 +288,7 @@ summary: >
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ![Coffee](https://img.shields.io/badge/Coffee_Consumed-∞_cups-6f4e37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
-![Bugs Fixed](https://img.shields.io/badge/Bugs_Fixed-Too_Many_to_Count-8a2be2?style=for-the-badge&logo=bug&logoColor=white)
+![Bugs Fixed](https://img.shields.io/badge/Bugs_Fixed-Too_Many_to_Count-9d4edd?style=for-the-badge&logo=bug&logoColor=white)
 ![Mood](https://img.shields.io/badge/Current_Mood-Shipping_Code-00d4ff?style=for-the-badge)
 
 </div>
@@ -295,14 +301,14 @@ summary: >
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-rai-3b5055304/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutirai29)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8a2be2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shrutirai29.github.io/myportfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9d4edd?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shrutirai29.github.io/myportfolio/)
 [![Email](https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shruti.rai2901@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shruti_rai/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-D32F2F?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shruti.r8524)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:5a189a,100:0f0c29&height=150&section=footer" width="100%"/>
 
 <div align="center">
 <sub>✨ Thanks for visiting my profile — let's build something amazing together! ✨</sub>
