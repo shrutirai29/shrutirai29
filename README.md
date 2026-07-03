@@ -213,7 +213,7 @@ summary: >
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=shrutirai29&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=9d4edd&text_color=c9d1d9&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutirai29&theme=tokyonight&hide_border=true&background=0d1117&ring=9d4edd&fire=00d4ff&currStreakLabel=00d4ff" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=shrutirai29&theme=tokyonight&hide_border=true&background=0d1117&ring=9d4edd&fire=00d4ff&currStreakLabel=00d4ff" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutirai29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="60%"/>
 
