@@ -184,25 +184,21 @@ summary: >
 
 ### LeetCode
 
-[<img src="https://leetcard.jacoblin.cool/Shruti_rai?theme=dark&font=Fira%20Code" width="60%"/>](https://leetcode.com/u/Shruti_rai/)
-
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-36-9d4edd?style=for-the-badge&logo=leetcode&logoColor=white)
-![Easy](https://img.shields.io/badge/Easy-11-00d4ff?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-15-9d4edd?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-10-ff2e63?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Max_Streak-20_days-00d4ff?style=for-the-badge&logo=fire&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-69-9d4edd?style=for-the-badge&logo=leetcode&logoColor=white)
+![Easy](https://img.shields.io/badge/Easy-19-00d4ff?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-33-9d4edd?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-17-ff2e63?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Max_Streak-50_days-00d4ff?style=for-the-badge&logo=fire&logoColor=white)
 
 <br/>
 
 ### TryHackMe
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-shruti.r8524-red?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Rank](https://img.shields.io/badge/Rank-Top_15%25-9d4edd?style=for-the-badge)
-![Rooms](https://img.shields.io/badge/Rooms_Completed-22-00d4ff?style=for-the-badge)
-![Badges](https://img.shields.io/badge/Badges_Earned-3-9d4edd?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Current_Streak-15_days-00d4ff?style=for-the-badge&logo=fire&logoColor=white)
-
-[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/shruti.r8524.png)](https://tryhackme.com/p/shruti.r8524)
+![Rank](https://img.shields.io/badge/Rank-Top_5%25-9d4edd?style=for-the-badge)
+![Rooms](https://img.shields.io/badge/Rooms_Completed-81-00d4ff?style=for-the-badge)
+![Badges](https://img.shields.io/badge/Badges_Earned-4-9d4edd?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Current_Streak-45_days-00d4ff?style=for-the-badge&logo=fire&logoColor=white)
 
 </div>
 
@@ -222,9 +218,9 @@ summary: >
 <br/><br/>
 
 ![CGPA](https://img.shields.io/badge/CGPA-8.01-9d4edd?style=for-the-badge&logo=googlescholar&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode_Solved-36-00d4ff?style=for-the-badge&logo=leetcode&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe_Rank-Top_15%25-9d4edd?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Rooms](https://img.shields.io/badge/Rooms_Completed-22-00d4ff?style=for-the-badge)
+![LeetCode](https://img.shields.io/badge/LeetCode_Solved-69-00d4ff?style=for-the-badge&logo=leetcode&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe_Rank-Top_5%25-9d4edd?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Rooms](https://img.shields.io/badge/Rooms_Completed-81-00d4ff?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects_Built-4-9d4edd?style=for-the-badge)
 
 </div>
@@ -247,9 +243,9 @@ summary: >
 
 **🏆 Achievements**
 - 🎓 Maintaining CGPA of 8.01 at RRU
-- 🥇 TryHackMe — Top 15% global rank
-- 🔥 36 LeetCode problems solved & climbing
-- 🛡️ 22 cybersecurity rooms completed
+- 🥇 TryHackMe — Top 5% global rank
+- 🔥 69 LeetCode problems solved & climbing
+- 🛡️ 81 cybersecurity rooms completed
 
 **🛡️ Cybersecurity Journey**
 - Exploring Linux & networking fundamentals
