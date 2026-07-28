@@ -30,7 +30,7 @@ role: "B.Tech Computer Science Student"
 university: "Rashtriya Raksha University"
 duration: "2024 - 2028"
 location: "Gandhinagar, Gujarat, India"
-cgpa: "8.01"
+cgpa: "8.17"
 focus_areas:
   - Software Development
   - Backend Engineering
