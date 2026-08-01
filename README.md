@@ -242,7 +242,7 @@ summary: >
 <td valign="top" width="50%">
 
 **🏆 Achievements**
-- 🎓 Maintaining CGPA of 8.01 at RRU
+- 🎓 Maintaining CGPA of 8.17 at RRU
 - 🥇 TryHackMe — Top 5% global rank
 - 🔥 69 LeetCode problems solved & climbing
 - 🛡️ 81 cybersecurity rooms completed
