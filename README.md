@@ -184,10 +184,7 @@ summary: >
 
 ### LeetCode
 
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-69-9d4edd?style=for-the-badge&logo=leetcode&logoColor=white)
-![Easy](https://img.shields.io/badge/Easy-19-00d4ff?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-33-9d4edd?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-17-ff2e63?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-150%2B-9d4edd?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Streak](https://img.shields.io/badge/Max_Streak-50_days-00d4ff?style=for-the-badge&logo=fire&logoColor=white)
 
 <br/>
@@ -196,7 +193,7 @@ summary: >
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-shruti.r8524-red?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Rank](https://img.shields.io/badge/Rank-Top_5%25-9d4edd?style=for-the-badge)
-![Rooms](https://img.shields.io/badge/Rooms_Completed-81-00d4ff?style=for-the-badge)
+![Rooms](https://img.shields.io/badge/Rooms_Completed-100%2B-00d4ff?style=for-the-badge)
 ![Badges](https://img.shields.io/badge/Badges_Earned-4-9d4edd?style=for-the-badge)
 ![Streak](https://img.shields.io/badge/Current_Streak-45_days-00d4ff?style=for-the-badge&logo=fire&logoColor=white)
 
@@ -217,10 +214,10 @@ summary: >
 
 <br/><br/>
 
-![CGPA](https://img.shields.io/badge/CGPA-8.01-9d4edd?style=for-the-badge&logo=googlescholar&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode_Solved-69-00d4ff?style=for-the-badge&logo=leetcode&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.17-9d4edd?style=for-the-badge&logo=googlescholar&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode_Solved-150%2B-00d4ff?style=for-the-badge&logo=leetcode&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe_Rank-Top_5%25-9d4edd?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Rooms](https://img.shields.io/badge/Rooms_Completed-81-00d4ff?style=for-the-badge)
+![Rooms](https://img.shields.io/badge/Rooms_Completed-100%2B-00d4ff?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Projects_Built-4-9d4edd?style=for-the-badge)
 
 </div>
@@ -244,8 +241,9 @@ summary: >
 **🏆 Achievements**
 - 🎓 Maintaining CGPA of 8.17 at RRU
 - 🥇 TryHackMe — Top 5% global rank
-- 🔥 69 LeetCode problems solved & climbing
-- 🛡️ 81 cybersecurity rooms completed
+- 🔥 150+ LeetCode problems solved & climbing
+- 🛡️ 100+ cybersecurity rooms completed
+- 🏅 Smart India Hackathon (Internal Round) — Secured 6th place
 
 **🛡️ Cybersecurity Journey**
 - Exploring Linux & networking fundamentals
@@ -297,7 +295,7 @@ summary: >
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-rai-3b5055304/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shrutirai29)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9d4edd?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shrutirai29.github.io/myportfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9d4edd?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-eight-tan-dyg7ki7exx.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-00d4ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shruti.rai2901@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shruti_rai/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-D32F2F?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shruti.r8524)
